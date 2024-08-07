@@ -35,5 +35,7 @@ This Splunk Technology Add-on (TA) leverages Microsoft Graph's List-application 
         - Enter the Tenant or Directory ID associated with your Client
         - For experts, modify the response of Graph by appending Query Parameters
 
-### Support
+-----------
+
+##### Support
 My favourite beer is IPA and would happy to have one today. Send me some 🤗 : daniel.l.astillero@gmail.com
